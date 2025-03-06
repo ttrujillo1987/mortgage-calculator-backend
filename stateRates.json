@@ -1,0 +1,257 @@
+{
+    "AL": {
+      "propertyTaxRate": 0.40,
+      "insurance": 3140,
+      "insuranceRate": 1.05
+    },
+    "AK": {
+      "propertyTaxRate": 1.04,
+      "insurance": 1160,
+      "insuranceRate": 0.37
+    },
+    "AZ": {
+      "propertyTaxRate": 0.63,
+      "insurance": 2135,
+      "insuranceRate": 0.71
+    },
+    "AR": {
+      "propertyTaxRate": 0.64,
+      "insurance": 3355,
+      "insuranceRate": 1.12
+    },
+    "CA": {
+      "propertyTaxRate": 0.75,
+      "insurance": 1250,
+      "insuranceRate": 0.42
+    },
+    "CO": {
+      "propertyTaxRate": 0.55,
+      "insurance": 3820,
+      "insuranceRate": 1.27
+    },
+    "CT": {
+      "propertyTaxRate": 1.79,
+      "insurance": 1575,
+      "insuranceRate": 0.53
+    },
+    "DE": {
+      "propertyTaxRate": 0.61,
+      "insurance": 860,
+      "insuranceRate": 0.29
+    },
+    "FL": {
+      "propertyTaxRate": 0.91,
+      "insurance": 2625,
+      "insuranceRate": 0.88
+    },
+    "GA": {
+      "propertyTaxRate": 0.92,
+      "insurance": 2345,
+      "insuranceRate": 0.78
+    },
+    "HI": {
+      "propertyTaxRate": 0.32,
+      "insurance": 515,
+      "insuranceRate": 0.17
+    },
+    "ID": {
+      "propertyTaxRate": 0.67,
+      "insurance": 1510,
+      "insuranceRate": 0.50
+    },
+    "IL": {
+      "propertyTaxRate": 2.08,
+      "insurance": 2060,
+      "insuranceRate": 0.69
+    },
+    "IN": {
+      "propertyTaxRate": 0.84,
+      "insurance": 1975,
+      "insuranceRate": 0.66
+    },
+    "IA": {
+      "propertyTaxRate": 1.52,
+      "insurance": 2215,
+      "insuranceRate": 0.74
+    },
+    "KS": {
+      "propertyTaxRate": 1.34,
+      "insurance": 3570,
+      "insuranceRate": 1.19
+    },
+    "KY": {
+      "propertyTaxRate": 0.83,
+      "insurance": 2190,
+      "insuranceRate": 0.73
+    },
+    "LA": {
+      "propertyTaxRate": 0.56,
+      "insurance": 2240,
+      "insuranceRate": 0.75
+    },
+    "ME": {
+      "propertyTaxRate": 1.24,
+      "insurance": 1075,
+      "insuranceRate": 0.36
+    },
+    "MD": {
+      "propertyTaxRate": 1.05,
+      "insurance": 1700,
+      "insuranceRate": 0.57
+    },
+    "MA": {
+      "propertyTaxRate": 1.14,
+      "insurance": 1545,
+      "insuranceRate": 0.52
+    },
+    "MI": {
+      "propertyTaxRate": 1.38,
+      "insurance": 1785,
+      "insuranceRate": 0.60
+    },
+    "MN": {
+      "propertyTaxRate": 1.11,
+      "insurance": 2375,
+      "insuranceRate": 0.79
+    },
+    "MS": {
+      "propertyTaxRate": 0.67,
+      "insurance": 3475,
+      "insuranceRate": 1.16
+    },
+    "MO": {
+      "propertyTaxRate": 1.01,
+      "insurance": 2905,
+      "insuranceRate": 0.97
+    },
+    "MT": {
+      "propertyTaxRate": 0.74,
+      "insurance": 2605,
+      "insuranceRate": 0.87
+    },
+    "NE": {
+      "propertyTaxRate": 1.63,
+      "insurance": 4135,
+      "insuranceRate": 1.38
+    },
+    "NV": {
+      "propertyTaxRate": 0.59,
+      "insurance": 1290,
+      "insuranceRate": 0.43
+    },
+    "NH": {
+      "propertyTaxRate": 1.93,
+      "insurance": 1000,
+      "insuranceRate": 0.33
+    },
+    "NJ": {
+      "propertyTaxRate": 2.23,
+      "insurance": 1150,
+      "insuranceRate": 0.38
+    },
+    "NM": {
+      "propertyTaxRate": 0.67,
+      "insurance": 1595,
+      "insuranceRate": 0.53
+    },
+    "NY": {
+      "propertyTaxRate": 1.40,
+      "insurance": 1715,
+      "insuranceRate": 0.57
+    },
+    "NC": {
+      "propertyTaxRate": 0.82,
+      "insurance": 1975,
+      "insuranceRate": 0.66
+    },
+    "ND": {
+      "propertyTaxRate": 0.98,
+      "insurance": 2445,
+      "insuranceRate": 0.82
+    },
+    "OH": {
+      "propertyTaxRate": 1.59,
+      "insurance": 1390,
+      "insuranceRate": 0.46
+    },
+    "OK": {
+      "propertyTaxRate": 0.89,
+      "insurance": 5495,
+      "insuranceRate": 1.83
+    },
+    "OR": {
+      "propertyTaxRate": 0.93,
+      "insurance": 1255,
+      "insuranceRate": 0.42
+    },
+    "PA": {
+      "propertyTaxRate": 1.49,
+      "insurance": 1410,
+      "insuranceRate": 0.47
+    },
+    "RI": {
+      "propertyTaxRate": 1.40,
+      "insurance": 2070,
+      "insuranceRate": 0.69
+    },
+    "SC": {
+      "propertyTaxRate": 0.57,
+      "insurance": 2250,
+      "insuranceRate": 0.75
+    },
+    "SD": {
+      "propertyTaxRate": 1.17,
+      "insurance": 2810,
+      "insuranceRate": 0.94
+    },
+    "TN": {
+      "propertyTaxRate": 0.67,
+      "insurance": 2435,
+      "insuranceRate": 0.81
+    },
+    "TX": {
+      "propertyTaxRate": 1.68,
+      "insurance": 4400,
+      "insuranceRate": 1.47
+    },
+    "UT": {
+      "propertyTaxRate": 0.57,
+      "insurance": 1140,
+      "insuranceRate": 0.38
+    },
+    "VT": {
+      "propertyTaxRate": 1.83,
+      "insurance": 870,
+      "insuranceRate": 0.29
+    },
+    "VA": {
+      "propertyTaxRate": 0.87,
+      "insurance": 1445,
+      "insuranceRate": 0.48
+    },
+    "WA": {
+      "propertyTaxRate": 0.87,
+      "insurance": 1225,
+      "insuranceRate": 0.41
+    },
+    "DC": {
+      "propertyTaxRate": 0.62,
+      "insurance": 1190,
+      "insuranceRate": 0.40
+    },
+    "WV": {
+      "propertyTaxRate": 0.57,
+      "insurance": 1600,
+      "insuranceRate": 0.53
+    },
+    "WI": {
+      "propertyTaxRate": 1.61,
+      "insurance": 1300,
+      "insuranceRate": 0.43
+    },
+    "WY": {
+      "propertyTaxRate": 0.56,
+      "insurance": 1555,
+      "insuranceRate": 0.52
+    }
+  }
